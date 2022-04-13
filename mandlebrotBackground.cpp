@@ -1,3 +1,5 @@
+// Compile using png++
+
 #include <png++/png.hpp>
 #include <string>
 #include <unistd.h>
